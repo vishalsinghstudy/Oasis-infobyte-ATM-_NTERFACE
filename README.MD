@@ -1,14 +1,14 @@
 ## README
 # ATM INTERFACE
 
-# ATM Machine Simulator
+## ATM Machine Simulator
 
 This Java program simulates an Automated Teller Machine (ATM) that allows the user to perform various banking operations such as withdrawing money, depositing money, checking balance, and transferring money.
 
-# Prerequisites
+## Prerequisites
 - Java Development Kit (JDK) installed on your computer.
 
-# Getting Started
+## Getting Started
 
 1. Save the Java code in a file named `ATM.java`.
 2. Open a terminal or command prompt and navigate to the directory where the `ATM.java` file is saved.
@@ -16,7 +16,7 @@ This Java program simulates an Automated Teller Machine (ATM) that allows the us
 4. Run the compiled Java code by running the command `java ATM`.
 5. Follow the on-screen instructions to perform various banking operations.
 
-# Features
+## Features
 - The user is prompted to enter their account holder name and PIN number.
 - The user can choose from various banking options such as withdraw, deposit, check balance, transfer money, and quit.
 - The user can withdraw money from their account, subject to the available balance.
@@ -25,7 +25,7 @@ This Java program simulates an Automated Teller Machine (ATM) that allows the us
 - The user can transfer money to another account, subject to the available balance.
 - The user can quit the program at any time.
 
-# Limitations
+## Limitations
 - The PIN number is hardcoded in the program and is not secure.
 - The program does not handle invalid input or errors gracefully.
 - The program assumes that the user will always enter valid input and does not provide any feedback or guidance for invalid input.
@@ -34,10 +34,10 @@ This Java program simulates an Automated Teller Machine (ATM) that allows the us
 - The program does not handle negative or zero amounts for deposit or transfer.
 - The program does not handle transferring amounts greater than the available balance.
 
-# Conclusion
+## Conclusion
 This Java program provides a simple simulation of an ATM machine that allows the user to perform various banking operations. However, it has several limitations and should not be used for any real-world applications. It can be used as a starting point for learning Java programming and building more complex applications.
 
-# License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## 🔗 Contact 
